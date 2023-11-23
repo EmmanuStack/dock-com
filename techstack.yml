@@ -1,0 +1,51 @@
+repo_name: EmmanuStack/dock-com
+report_id: 0f178296efa8a0dd3b2d28e1c2c08e30
+repo_type: Public
+timestamp: '2023-11-23T16:19:18+00:00'
+requested_by: emmanu-yahoo
+provider: github
+branch: main
+detected_tools_count: 4
+tools:
+- name: Laravel
+  description: A PHP Framework For Web Artisans
+  website_url: http://laravel.com/
+  open_source: false
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Frameworks (Full Stack)
+  image_url: https://img.stackshare.io/service/992/AcA2LnWL_400x400.jpg
+  detection_source: docker-compose.yml
+  last_updated_by: emmanu-yahoo
+  last_updated_on: 2023-11-23 11:14:57.000000000 Z
+- name: MySQL
+  description: The world's most popular open source database
+  website_url: http://www.mysql.com
+  open_source: true
+  hosted_saas: false
+  category: Data Stores
+  sub_category: Databases
+  image_url: https://img.stackshare.io/service/1025/logo-mysql-170x170.png
+  detection_source: docker-compose.yml
+  last_updated_by: emmanu-yahoo
+  last_updated_on: 2023-11-23 11:14:57.000000000 Z
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source: Repo Metadata
+- name: phpMyAdmin
+  description: A free software, for MySQL and MariaDB
+  website_url: https://www.phpmyadmin.net/
+  open_source: false
+  hosted_saas: false
+  category: Monitoring
+  sub_category: Performance Monitoring
+  image_url: https://img.stackshare.io/service/2102/3pl3dljQ_400x400.png
+  detection_source: docker-compose.yml
+  last_updated_by: emmanu-yahoo
+  last_updated_on: 2023-11-23 11:14:57.000000000 Z
