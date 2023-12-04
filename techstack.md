@@ -28,7 +28,7 @@ Full tech stack [here](/techstack.md)
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [EmmanuStack/dock-com](https://github.com/EmmanuStack/dock-com)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|4<br/>Tools used|11/30/23 <br/>Report generated|
+|4<br/>Tools used|12/04/23 <br/>Report generated|
 |------|------|
 </div>
 
@@ -52,7 +52,7 @@ Full tech stack [here](/techstack.md)
   <br>
   <sub><a href="http://www.mysql.com">MySQL</a></sub>
   <br>
-  <sub></sub>
+  <sub>v5.7</sub>
 </td>
 
 </tr>
