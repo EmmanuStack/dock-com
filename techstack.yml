@@ -1,7 +1,7 @@
 repo_name: EmmanuStack/dock-com
-report_id: e40f937b36833d87db63339f0236adb6
+report_id: 7dfc78ed92a175d357ce2fef1e557472
 repo_type: Public
-timestamp: '2023-12-07T17:13:26+00:00'
+timestamp: '2023-12-08T12:07:48+00:00'
 requested_by: emmanu-yahoo
 provider: github
 branch: main
@@ -16,6 +16,8 @@ tools:
   sub_category: Frameworks (Full Stack)
   image_url: https://img.stackshare.io/service/992/AcA2LnWL_400x400.jpg
   detection_source: docker-compose.yml
+  last_updated_by: emmanu-yahoo
+  last_updated_on: 2023-11-23 11:14:57.000000000 Z
 - name: MySQL
   description: The world's most popular open source database
   website_url: http://www.mysql.com
@@ -27,6 +29,8 @@ tools:
   image_url: https://img.stackshare.io/service/1025/logo-mysql-170x170.png
   detection_source_url: github.com/EmmanuStack/dock-com/blob/main/docker-compose.yml
   detection_source: docker-compose.yml
+  last_updated_by: emmanu-yahoo
+  last_updated_on: 2023-11-23 11:14:57.000000000 Z
 - name: Git
   description: Fast, scalable, distributed revision control system
   website_url: http://git-scm.com/
@@ -45,3 +49,5 @@ tools:
   sub_category: Performance Monitoring
   image_url: https://img.stackshare.io/service/2102/3pl3dljQ_400x400.png
   detection_source: docker-compose.yml
+  last_updated_by: emmanu-yahoo
+  last_updated_on: 2023-11-23 11:14:57.000000000 Z
