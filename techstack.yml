@@ -1,11 +1,11 @@
 repo_name: EmmanuStack/dock-com
-report_id: 7dfc78ed92a175d357ce2fef1e557472
+report_id: a8c9a68d3f84b8393998db1e30861405
 repo_type: Public
-timestamp: '2023-12-08T12:07:48+00:00'
+timestamp: '2023-12-08T22:04:50+00:00'
 requested_by: emmanu-yahoo
 provider: github
 branch: main
-detected_tools_count: 4
+detected_tools_count: 5
 tools:
 - name: Laravel
   description: A PHP Framework For Web Artisans
@@ -18,16 +18,25 @@ tools:
   detection_source: docker-compose.yml
   last_updated_by: emmanu-yahoo
   last_updated_on: 2023-11-23 11:14:57.000000000 Z
+- name: Cloud DB for Mysql
+  description: Easily setup and manage the MySQL database service
+  website_url: https://www.ncloud.com/product/database/cloudDbMysql
+  open_source: false
+  hosted_saas: true
+  category: Data Stores
+  sub_category: SQL Database as a Service
+  image_url: https://img.stackshare.io/service/21275/default_078eb0ae2b56280a937ed073a3ba4332291f9ba8.png
+  detection_source: docker-compose.yml
+  last_updated_by: emmanu-yahoo
+  last_updated_on: 2023-11-23 11:14:57.000000000 Z
 - name: MySQL
   description: The world's most popular open source database
   website_url: http://www.mysql.com
-  version: '5.7'
   open_source: true
   hosted_saas: false
   category: Data Stores
   sub_category: Databases
   image_url: https://img.stackshare.io/service/1025/logo-mysql-170x170.png
-  detection_source_url: github.com/EmmanuStack/dock-com/blob/main/docker-compose.yml
   detection_source: docker-compose.yml
   last_updated_by: emmanu-yahoo
   last_updated_on: 2023-11-23 11:14:57.000000000 Z
