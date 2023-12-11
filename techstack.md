@@ -6,7 +6,6 @@ EmmanuStack/dock-com is built on the following main stack:
 - [Laravel](http://laravel.com/) – Frameworks (Full Stack)
 - [MySQL](http://www.mysql.com) – Databases
 - [phpMyAdmin](https://www.phpmyadmin.net/) – Performance Monitoring
-- [Cloud DB for Mysql](https://www.ncloud.com/product/database/cloudDbMysql) – SQL Database as a Service
 
 Full tech stack [here](/techstack.md)
 
@@ -19,7 +18,6 @@ EmmanuStack/dock-com is built on the following main stack:
 - <img width='25' height='25' src='https://img.stackshare.io/service/992/AcA2LnWL_400x400.jpg' alt='Laravel'/> [Laravel](http://laravel.com/) – Frameworks (Full Stack)
 - <img width='25' height='25' src='https://img.stackshare.io/service/1025/logo-mysql-170x170.png' alt='MySQL'/> [MySQL](http://www.mysql.com) – Databases
 - <img width='25' height='25' src='https://img.stackshare.io/service/2102/3pl3dljQ_400x400.png' alt='phpMyAdmin'/> [phpMyAdmin](https://www.phpmyadmin.net/) – Performance Monitoring
-- <img width='25' height='25' src='https://img.stackshare.io/service/21275/default_078eb0ae2b56280a937ed073a3ba4332291f9ba8.png' alt='Cloud DB for Mysql'/> [Cloud DB for Mysql](https://www.ncloud.com/product/database/cloudDbMysql) – SQL Database as a Service
 
 Full tech stack [here](/techstack.md)
 
@@ -30,7 +28,7 @@ Full tech stack [here](/techstack.md)
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [EmmanuStack/dock-com](https://github.com/EmmanuStack/dock-com)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|5<br/>Tools used|12/08/23 <br/>Report generated|
+|4<br/>Tools used|12/11/23 <br/>Report generated|
 |------|------|
 </div>
 
@@ -47,22 +45,14 @@ Full tech stack [here](/techstack.md)
 </tr>
 </table>
 
-## <img src='https://img.stackshare.io/databases.svg'/> Data (2)
+## <img src='https://img.stackshare.io/databases.svg'/> Data (1)
 <table><tr>
   <td align='center'>
-  <img width='36' height='36' src='https://img.stackshare.io/service/21275/default_078eb0ae2b56280a937ed073a3ba4332291f9ba8.png' alt='Cloud DB for Mysql'>
-  <br>
-  <sub><a href="https://www.ncloud.com/product/database/cloudDbMysql">Cloud DB for Mysql</a></sub>
-  <br>
-  <sub></sub>
-</td>
-
-<td align='center'>
   <img width='36' height='36' src='https://img.stackshare.io/service/1025/logo-mysql-170x170.png' alt='MySQL'>
   <br>
   <sub><a href="http://www.mysql.com">MySQL</a></sub>
   <br>
-  <sub></sub>
+  <sub>v5.7</sub>
 </td>
 
 </tr>
