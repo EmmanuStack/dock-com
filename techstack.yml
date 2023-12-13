@@ -1,11 +1,11 @@
 repo_name: EmmanuStack/dock-com
-report_id: b02fd483bb274a15b862028f3b056704
+report_id: ba417c9022a302eae725f435cd5a6c7a
 repo_type: Public
-timestamp: '2023-12-13T11:55:51+00:00'
+timestamp: '2023-12-13T13:36:38+00:00'
 requested_by: emmanu-yahoo
 provider: github
 branch: main
-detected_tools_count: 5
+detected_tools_count: 4
 tools:
 - name: Laravel
   description: A PHP Framework For Web Artisans
@@ -18,22 +18,11 @@ tools:
   detection_source: docker-compose.yml
   last_updated_by: emmanu-yahoo
   last_updated_on: 2023-11-23 11:14:57.000000000 Z
-- name: Cloud DB for Mysql
-  description: Easily setup and manage the MySQL database service
-  website_url: https://www.ncloud.com/product/database/cloudDbMysql
-  open_source: false
-  hosted_saas: true
-  category: Data Stores
-  sub_category: SQL Database as a Service
-  image_url: https://img.stackshare.io/service/21275/default_078eb0ae2b56280a937ed073a3ba4332291f9ba8.png
-  detection_source: docker-compose.yml
-  last_updated_by: emmanu-yahoo
-  last_updated_on: 2023-11-23 11:14:57.000000000 Z
 - name: MySQL
   description: The world's most popular open source database
   website_url: http://www.mysql.com
   version: '5.7'
-  open_source: true
+  open_source: false
   hosted_saas: false
   category: Data Stores
   sub_category: Databases
@@ -45,7 +34,7 @@ tools:
 - name: Git
   description: Fast, scalable, distributed revision control system
   website_url: http://git-scm.com/
-  open_source: true
+  open_source: false
   hosted_saas: false
   category: Build, Test, Deploy
   sub_category: Version Control System
