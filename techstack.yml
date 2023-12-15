@@ -1,7 +1,7 @@
 repo_name: EmmanuStack/dock-com
-report_id: ba417c9022a302eae725f435cd5a6c7a
+report_id: 205e16539c7b57e80945006793a693c9
 repo_type: Public
-timestamp: '2023-12-13T13:36:38+00:00'
+timestamp: '2023-12-15T12:55:07+00:00'
 requested_by: emmanu-yahoo
 provider: github
 branch: main
@@ -22,7 +22,7 @@ tools:
   description: The world's most popular open source database
   website_url: http://www.mysql.com
   version: '5.7'
-  open_source: false
+  open_source: true
   hosted_saas: false
   category: Data Stores
   sub_category: Databases
@@ -34,7 +34,7 @@ tools:
 - name: Git
   description: Fast, scalable, distributed revision control system
   website_url: http://git-scm.com/
-  open_source: false
+  open_source: true
   hosted_saas: false
   category: Build, Test, Deploy
   sub_category: Version Control System
