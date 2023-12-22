@@ -1,11 +1,12 @@
 repo_name: EmmanuStack/dock-com
-report_id: 205e16539c7b57e80945006793a693c9
+report_id: 7ff6ca2cb35b370f1c11e8972cf11844
+version: 0.1
 repo_type: Public
-timestamp: '2023-12-15T12:55:07+00:00'
+timestamp: '2023-12-22T21:36:30+00:00'
 requested_by: emmanu-yahoo
 provider: github
 branch: main
-detected_tools_count: 4
+detected_tools_count: 5
 tools:
 - name: Laravel
   description: A PHP Framework For Web Artisans
@@ -15,6 +16,17 @@ tools:
   category: Languages & Frameworks
   sub_category: Frameworks (Full Stack)
   image_url: https://img.stackshare.io/service/992/AcA2LnWL_400x400.jpg
+  detection_source: docker-compose.yml
+  last_updated_by: emmanu-yahoo
+  last_updated_on: 2023-11-23 11:14:57.000000000 Z
+- name: Cloud DB for Mysql
+  description: Easily setup and manage the MySQL database service
+  website_url: https://www.ncloud.com/product/database/cloudDbMysql
+  open_source: false
+  hosted_saas: true
+  category: Data Stores
+  sub_category: SQL Database as a Service
+  image_url: https://img.stackshare.io/service/21275/default_078eb0ae2b56280a937ed073a3ba4332291f9ba8.png
   detection_source: docker-compose.yml
   last_updated_by: emmanu-yahoo
   last_updated_on: 2023-11-23 11:14:57.000000000 Z
